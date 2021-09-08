@@ -1,5 +1,6 @@
 ## BEHAVIOURAL DIAGRAMS
 ![Usecase](https://user-images.githubusercontent.com/89655608/132477041-cb48b1f4-95a8-4153-9797-623f010e79db.png)
+![Activity Diagram for ATM](https://user-images.githubusercontent.com/89655608/132484822-4ea343f6-cbd9-4841-9997-afad2e1ecff0.jpeg)
 
 ## STRUCTURAL DIAGRAMS
 ![Deployment](https://user-images.githubusercontent.com/89655608/132482107-1625c793-7c3f-4e38-9130-a58914e882e3.png)
